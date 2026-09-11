@@ -1,0 +1,46 @@
+[
+  {
+    "name": "creative-2-wir-suchen-split",
+    "logo": "logo-weiss.png",
+    "foto": "img/foto-hd-team-gruenanlage.jpg",
+    "primary": "#0B8E36",
+    "panel": "top",
+    "panel_hoehe": 0.52,
+    "panel_bg": "#0B8E36",
+    "kicker": "WIR SUCHEN IN KÖLN & UMGEBUNG",
+    "headline": [
+      "Facharbeiter",
+      "GaLaBau (m/w/d)"
+    ],
+    "subline": "Eric Cornils Garten- und Landschaftsbau",
+    "cta": "Jetzt in 60 Sekunden bewerben",
+    "fokus": [
+      0.5,
+      0.42
+    ]
+  },
+  {
+    "name": "creative-3-checkliste",
+    "logo": "logo-weiss.png",
+    "foto": "img/foto-hd-team-baustelle.jpg",
+    "primary": "#0B8E36",
+    "panel": "bottom",
+    "panel_hoehe": 0.59,
+    "panel_bg": "#FFFFFF",
+    "kicker": "UNBEFRISTET · VOLLZEIT",
+    "headline": [
+      "Facharbeiter GaLaBau",
+      "in Köln gesucht"
+    ],
+    "checkliste": [
+      "Keine Montage mit Übernachtung",
+      "Anhängerführerschein bezahlt",
+      "Jobrad & Urban Sports"
+    ],
+    "cta": "Jetzt in 60 Sekunden bewerben",
+    "fokus": [
+      0.5,
+      0.45
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "creative-4-karte-koeln",
+  "logo": "logo-weiss.png",
+  "karte": "img/karte.jpg",
+  "primary": "#0B8E36",
+  "primary_ink": "#FFFFFF",
+  "balken": "#111111",
+  "balken_ink": "#FFFFFF",
+  "headline": [
+    "FACHARBEITER",
+    "GaLaBau"
+  ],
+  "headline_zusatz": "(m/w/d) gesucht",
+  "staedte": "Köln · Bonn · Leverkusen · Bergisch Gladbach & Umgebung",
+  "pills": [
+    "Unbefristet",
+    "Keine Montage"
+  ],
+  "cta": "In 60 Sekunden zum unverbindlichen Job-Angebot",
+  "pin_label": "Köln"
+}
