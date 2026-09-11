@@ -1,0 +1,152 @@
+{
+  "firma": "Eric Cornils Garten- und Landschaftsbau",
+  "stelle": "Facharbeiter GaLaBau (m/w/d)",
+  "ort": "Köln",
+  "plz": "51147",
+  "branche": "galabau",
+  "farbe_primary": "#0B8E36",
+  "farbe_secondary": "#111111",
+  "region_badge": "Köln & Umgebung",
+  "benefit_top": "Keine Montage – abends zu Hause",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Anhängerführerschein – die Kosten übernimmt der Betrieb",
+    "Betriebliche Altersvorsorge & Firmenhandy",
+    "Jobrad-Leasing & Urban-Sports-Mitgliedschaft",
+    "Flache Hierarchien & freundliches Arbeitsklima",
+    "Regelmäßige Firmenfeiern"
+  ],
+  "aufgaben": [
+    "Du packst auf der Baustelle mit an: Pflaster-, Erd-, Entwässerungs- und Pflanzarbeiten bei Neu- und Umgestaltungen von Außenanlagen",
+    "Du führst Pflege- und Vegetationsarbeiten durch und koordinierst sie",
+    "Du organisierst die Baustellen, koordinierst Material, Maschinen und Geräte und stimmst dich mit Bauleitung und Auftraggebern ab",
+    "Führung ist eine Option, kein Muss: Wenn du willst, leitest du Mitarbeiter und Kolonnen fachlich an und kontrollierst Qualität und Ausführung"
+  ],
+  "anforderung": "Abgeschlossene Ausbildung im Garten- und Landschaftsbau oder vergleichbare Qualifikation, dazu mehrjährige Berufserfahrung im GaLaBau. Führerschein Klasse B, idealerweise BE. Erfahrung als Polier oder Vorarbeiter ist willkommen, aber kein Muss.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Polier / Vorarbeiter / Meister",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Pflaster- / Straßen- / Tiefbau",
+      "icon": "🧱",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung im Straßen-/Tiefbau",
+          "icon": "🎓"
+        },
+        {
+          "label": "Polier / Vorarbeiter / Meister",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Gärtner / Grünpflege",
+      "icon": "🌳",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung als Gärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Polier / Vorarbeiter / Meister",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in einem anderen Gewerk",
+          "icon": "🎓"
+        },
+        {
+          "label": "Polier / Vorarbeiter / Meister",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "12",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2021",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "Köln",
+        "label": "& Umgebung"
+      }
+    ],
+    "text": "Eric Cornils Garten- und Landschaftsbau ist ein junger Betrieb aus dem Raum Köln – 2021 gegründet, heute 12 Mitarbeiter. Das Einsatzgebiet reicht von Privatgärten über Wohnanlagen bis zu gewerblichen und öffentlichen Flächen. Was den Betrieb auszeichnet: klare Abläufe, direkte Kommunikation und ein Team, auf das man sich verlassen kann."
+  },
+  "kunde_tab": "11 Eric Cornils Garten- und Landschaftsbau",
+  "quelle": "https://eric-cornils.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Köln"
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/f1.jpg",
+    "img/f2.jpg",
+    "img/f3.jpg"
+  ],
+  "video": {
+    "src": "img/video.mp4",
+    "poster": "img/f2.jpg"
+  }
+}
